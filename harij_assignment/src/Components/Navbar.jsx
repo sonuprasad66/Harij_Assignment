@@ -40,7 +40,7 @@ export const Navbar = () => {
           <Text fontWeight={600} fontSize={"18px"} cursor={"pointer"}>
             Face
           </Text>
-          <BsBoxArrowInRight fontSize={"20px"} />
+          <BsBoxArrowInRight fontSize={"20px"} cursor={"pointer"} />
           <Box position={"relative"} cursor={"pointer"}>
             <SlHandbag fontSize={"20px"} />
 

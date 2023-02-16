@@ -41,6 +41,7 @@ export const HomeSearch = () => {
               borderRight={"1px solid gray"}
             >
               <Input
+                variant="unstyled"
                 w={["100%", "100%", "100%", "300px"]}
                 placeholder="What are you looking for.."
                 outline={"none"}
@@ -50,6 +51,7 @@ export const HomeSearch = () => {
             </Flex>
             <Flex alignItems={"center"}>
               <Input
+                variant="unstyled"
                 w={["100%", "100%", "100%", "300px"]}
                 placeholder="Enter your location get started"
                 outline={"none"}
